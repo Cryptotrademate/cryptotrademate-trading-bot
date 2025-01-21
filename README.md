@@ -1,7 +1,8 @@
 # CryptoTradeMate Crypto Trading Bot
 
-Welcome to **CryptoTradeMate**, an advanced crypto trading bot designed to automate your trading strategies, simplify portfolio management, and provide insightful analytics. With CryptoTradeMate, you can easily execute trading strategies like Grid and Dollar-Cost Averaging (DCA), monitor your portfolio in real-time, and make informed trading decisions—all within a user-friendly interface.
+Welcome to **CryptoTradeMate**, a free, open-source advanced crypto trading bot designed to automate your trading strategies, simplify portfolio management, and provide insightful analytics. With CryptoTradeMate, you can easily execute trading strategies like Grid and Dollar-Cost Averaging (DCA), monitor your portfolio in real time, and make informed trading decisions—all within a user-friendly interface. It is designed to support all major exchanges and be controlled via Telegram or webUI.
 
+   ![CTM crypto trading bot](https://github.com/user-attachments/assets/b707fdde-5fd2-4d39-b86c-5d0784b40b93)
 
 ## 🚀 Features
 1. **Automated Trading Strategies**:
