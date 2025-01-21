@@ -2,7 +2,9 @@
 
 Welcome to **CryptoTradeMate**, a free, open-source advanced crypto trading bot designed to automate your trading strategies, simplify portfolio management, and provide insightful analytics. With CryptoTradeMate, you can easily execute trading strategies like Grid and Dollar-Cost Averaging (DCA), monitor your portfolio in real time, and make informed trading decisions—all within a user-friendly interface. It is designed to support all major exchanges and be controlled via Telegram or webUI.
 
-   ![CTM crypto trading bot](https://github.com/user-attachments/assets/b707fdde-5fd2-4d39-b86c-5d0784b40b93)
+   <div align="center">
+  <img src="https://github.com/user-attachments/assets/b707fdde-5fd2-4d39-b86c-5d0784b40b93" alt="CTM crypto trading bot">
+</div>
 
 ## 🚀 Features
 1. **Automated Trading Strategies**:
@@ -25,8 +27,8 @@ Welcome to **CryptoTradeMate**, a free, open-source advanced crypto trading bot 
    - Trade on multiple exchanges like Binance, KuCoin, Coinbase, and more.
 
 6. **Strategy Backtesting**:
-   - Test your strategies with historical data before deploying live.
-
+   - [Test your strategies](https://github.com/Cryptotrademate/cryptotrademate-backtesting-tool) with historical data before deploying live.
+     
 ## 🔧 Commands
 1. **Start**: `/start`  
    Get an overview of available features and commands.
@@ -116,8 +118,17 @@ Private exchange support.
 White-label solutions for businesses.
 
 Contact Us
-Email: support@cryptotrademate.com
-Telegram: CryptoTradeMate Support
-Website: Cryptotrademate.com
+For any inquiries or support, please reach out to us:
+- 🌐 Website: [CryptoTradeMate](https://cryptotrademate.com)
+- 📧 Email: support@cryptotrademate.com
+
+## **Support the Project**
+
+Your support helps us improve and expand this tool:
+- ⭐ **Star this repository** to show your appreciation!
+
+## **License**
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 Happy trading!
