@@ -6,6 +6,8 @@ Welcome to **CryptoTradeMate**, a free, open-source advanced crypto trading bot 
   <img src="https://github.com/user-attachments/assets/b707fdde-5fd2-4d39-b86c-5d0784b40b93" alt="CTM crypto trading bot">
 </div>
 
+You can also leverage CryptoTradeMate [Decentralized Crypto Signal Sharing Bot](https://github.com/Cryptotrademate/cryptotrademate-decentralized-crypto-signal-sharing-bot) —an open-source, self-hosted solution for sharing, accessing, and managing crypto trading signals in a privacy-first environment. With this bot, users can control their signal-sharing activities, track performance, and automate trading signal notifications.
+
 ## 🚀 Features
 1. **Automated Trading Strategies**:
    - **Grid Trading**: Automates buying and selling within predefined price ranges for maximum profit.
